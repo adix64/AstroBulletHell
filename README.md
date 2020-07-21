@@ -1,3 +1,3 @@
 # AstroBulletHell
 
-![](https://j.gifs.com/r8xGWW.gif)
+<img src="https://j.gifs.com/r8xGWW.gif" alt="drawing" width="200"/>
